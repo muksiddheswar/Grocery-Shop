@@ -1,6 +1,6 @@
 # GroceryShop
 
-The various entities contituting the store are as follows:
+The various entities constituting the store are as follows:
 
 **Product**: A grocery store will have products. The product is characterized by three properties, the name, the price and a unique barcode id. A grocery store can have multiple pieces of the same product. There are classes representing clients and shopping baskets. The basket can contain multiple products and is associated with a client. The client is allowed to:
 
